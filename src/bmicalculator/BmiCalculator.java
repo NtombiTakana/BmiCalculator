@@ -1,3 +1,9 @@
+/*
+ * Project: BMI Calculator
+ * Author: Ntombi Takana
+ * Description: A program that calcualtes the BMI of a person based on weight and height inputted by a user
+ *              
+ */
 package bmicalculator;
 
 import java.util.Scanner;
